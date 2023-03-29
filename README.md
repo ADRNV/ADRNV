@@ -1,10 +1,7 @@
 ### Hi, Heil, שָׁלוֹם עֲלֵיכֶם
-
-### 📑 Langluages & Platforms
->![](https://img.shields.io/badge/C%23-.NET-violet)
->![](https://img.shields.io/badge/Kotlin-Java-orange)
->![](https://img.shields.io/badge/JS-yellow)
-
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=adrnv&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/adrnv/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,dotnetcore,dotnet,kotlin&theme=darkmode)](https://github.com/adrnv/github-widgetbox)
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode,redis&&theme=darkmode)
 ### 🧱 Stacks & Frameworks
   1. Backend:
       >![](https://img.shields.io/badge/Framework-ASP.NET-blue)
@@ -19,25 +16,24 @@
       >![](https://img.shields.io/badge/-MSSQL-green)
       >![](https://img.shields.io/badge/-SQLite-gray)
       
-### 🔧 Tools
-![](https://img.shields.io/badge/Editor-Visual%20Studio%202022-violet)
-![](https://img.shields.io/badge/Editor-VSCode-blue)
-![](https://img.shields.io/badge/OS-Windows%2010-blue)
-
 ### 🚀 Projects
 >[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrnv&repo=Nocturne)](https://github.com/adrnv/Nocturne)
 >[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrnv&repo=UNiversalManual)](https://github.com/adrnv/UNiversalManual)
 >[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrnv&repo=ExtendentMath)](https://github.com/adrnv/ExtendentMath)
 
 ### 📈 GitHub Stats
-<p align="center">
-  <table>
-  <tr>
-      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=adrnv&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
-      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrnv&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
-  </tr>   
-</table>
-</p>
+
+<div align="left">
+
+###
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrnv&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adrnv&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrnv&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrnv&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adrnv&theme=radical)
+
+</div>
 
 ### 📨 Contacts
 <a href="https://t.me/Adis13"><img src="https://img.shields.io/badge/-Telegram-5194f0?style=flat-square&logo=Telegram"/></a>
