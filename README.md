@@ -15,6 +15,7 @@
   3.  Databases
       >![](https://img.shields.io/badge/-MSSQL-green)
       >![](https://img.shields.io/badge/-SQLite-gray)
+      >![](https://img.shields.io/badge/-Postgres-blue)
       
 ### 🚀 Projects
 >[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ADRNV&repo=Nocturne)](https://github.com/ADRNV/Nocturne)
