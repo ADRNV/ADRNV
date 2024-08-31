@@ -10,8 +10,10 @@
       >![](https://img.shields.io/badge/WebSokets-SignalR-blue)
   2. Frontend:
       >![](https://img.shields.io/badge/Web-React.js-blue)
+      >![](https://img.shields.io/badge/Web-Angular-red)
       >![](https://img.shields.io/badge/Desktop-WPF-blue)
       >![](https://img.shields.io/badge/Desktop-WinForms-blue)
+      
   3.  Databases
       >![](https://img.shields.io/badge/-MSSQL-green)
       >![](https://img.shields.io/badge/-SQLite-gray)
